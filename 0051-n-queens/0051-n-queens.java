@@ -1,11 +1,11 @@
 class Solution {
     public static boolean isSafe(char board[][], int row, int col, int n){
         //horizontal
-        for (int j=0; j<n; j++){
+        /*for (int j=0; j<n; j++){
             if (board[row][j]=='Q'){
                 return false;
             }
-        }
+        }*/
         //vertical
         for (int i=0; i<n;i++){
             if (board[i][col]=='Q'){
@@ -27,7 +27,6 @@ class Solution {
         return true;
     }
     public static void nQueens(char board[][], int row, int n, List<List<String>> res){
-
         if(row==n){
             List<String> temp = new ArrayList<>();
             for (int i=0; i<n; i++){
@@ -44,7 +43,6 @@ class Solution {
             }
         }
     }
-
     public List<List<String>> solveNQueens(int n) {
         List<List<String>> res = new ArrayList<>();
         char board [][] = new char[n][n];
@@ -53,7 +51,5 @@ class Solution {
         }
         nQueens(board, 0, n, res);
         return res;
-
-        
     }
 }
