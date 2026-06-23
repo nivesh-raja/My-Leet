@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nivesh-raja/My-Leet/tree/main/0001-two-sum/) | Easy |
+| [0035-search-insert-position](https://github.com/nivesh-raja/My-Leet/tree/main/0035-search-insert-position/) | Easy |
 | [0051-n-queens](https://github.com/nivesh-raja/My-Leet/tree/main/0051-n-queens/) | Hard |
 | [0704-binary-search](https://github.com/nivesh-raja/My-Leet/tree/main/0704-binary-search/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/nivesh-raja/My-Leet/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -32,5 +33,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/nivesh-raja/My-Leet/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/nivesh-raja/My-Leet/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
