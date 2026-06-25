@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/nivesh-raja/My-Leet/tree/main/0035-search-insert-position/) | Easy |
 | [0051-n-queens](https://github.com/nivesh-raja/My-Leet/tree/main/0051-n-queens/) | Hard |
 | [0704-binary-search](https://github.com/nivesh-raja/My-Leet/tree/main/0704-binary-search/) | Easy |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/nivesh-raja/My-Leet/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/nivesh-raja/My-Leet/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/nivesh-raja/My-Leet/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/nivesh-raja/My-Leet/tree/main/1929-concatenation-of-array/) | Easy |
@@ -68,4 +69,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/nivesh-raja/My-Leet/tree/main/0098-validate-binary-search-tree/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/nivesh-raja/My-Leet/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 <!---LeetCode Topics End-->
