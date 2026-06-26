@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/nivesh-raja/My-Leet/tree/main/0051-n-queens/) | Hard |
 | [0704-binary-search](https://github.com/nivesh-raja/My-Leet/tree/main/0704-binary-search/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/nivesh-raja/My-Leet/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nivesh-raja/My-Leet/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nivesh-raja/My-Leet/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/nivesh-raja/My-Leet/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/nivesh-raja/My-Leet/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nivesh-raja/My-Leet/tree/main/0001-two-sum/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nivesh-raja/My-Leet/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/nivesh-raja/My-Leet/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -79,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/nivesh-raja/My-Leet/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nivesh-raja/My-Leet/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,4 +90,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1512-number-of-good-pairs](https://github.com/nivesh-raja/My-Leet/tree/main/1512-number-of-good-pairs/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nivesh-raja/My-Leet/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
