@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/nivesh-raja/My-Leet/tree/main/0175-combine-two-tables/) | Easy |
+| [0176-second-highest-salary](https://github.com/nivesh-raja/My-Leet/tree/main/0176-second-highest-salary/) | Medium |
 | [0595-big-countries](https://github.com/nivesh-raja/My-Leet/tree/main/0595-big-countries/) | Easy |
 | [0610-triangle-judgement](https://github.com/nivesh-raja/My-Leet/tree/main/0610-triangle-judgement/) | Easy |
 | [0620-not-boring-movies](https://github.com/nivesh-raja/My-Leet/tree/main/0620-not-boring-movies/) | Easy |
