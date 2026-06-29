@@ -4,7 +4,7 @@ class Solution {
         long second = Long.MIN_VALUE;
         long third = Long.MIN_VALUE;
 
-        for (Integer i : nums){
+        for (int i : nums){
             if (i==first|| i==second || i==third) continue;
                 if (i > first){
                     third = second;
