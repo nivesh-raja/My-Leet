@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/nivesh-raja/My-Leet/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/nivesh-raja/My-Leet/tree/main/0069-sqrtx/) | Easy |
 | [0278-first-bad-version](https://github.com/nivesh-raja/My-Leet/tree/main/0278-first-bad-version/) | Easy |
 | [0704-binary-search](https://github.com/nivesh-raja/My-Leet/tree/main/0704-binary-search/) | Easy |
 ## Tree
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/nivesh-raja/My-Leet/tree/main/0069-sqrtx/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nivesh-raja/My-Leet/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/nivesh-raja/My-Leet/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Counting
