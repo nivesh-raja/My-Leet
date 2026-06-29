@@ -11,11 +11,11 @@ class Solution {
                     second = first;
                     first = i;
                 }
-                else if (i > second && i < first){
+                else if (i > second && i != first){
                     third = second;
                     second=i;
                 }
-                else if (i > third && i < second){
+                else if (i > third && i != second){
                     third = i;
                 }
         }
