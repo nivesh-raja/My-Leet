@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nivesh-raja/My-Leet/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/nivesh-raja/My-Leet/tree/main/0035-search-insert-position/) | Easy |
 | [0051-n-queens](https://github.com/nivesh-raja/My-Leet/tree/main/0051-n-queens/) | Hard |
+| [0066-plus-one](https://github.com/nivesh-raja/My-Leet/tree/main/0066-plus-one/) | Easy |
 | [0414-third-maximum-number](https://github.com/nivesh-raja/My-Leet/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/nivesh-raja/My-Leet/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/nivesh-raja/My-Leet/tree/main/0704-binary-search/) | Easy |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/nivesh-raja/My-Leet/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/nivesh-raja/My-Leet/tree/main/0069-sqrtx/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nivesh-raja/My-Leet/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/nivesh-raja/My-Leet/tree/main/1512-number-of-good-pairs/) | Easy |
