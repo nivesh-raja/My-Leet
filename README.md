@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0176-second-highest-salary](https://github.com/nivesh-raja/My-Leet/tree/main/0176-second-highest-salary/) | Medium |
 | [0182-duplicate-emails](https://github.com/nivesh-raja/My-Leet/tree/main/0182-duplicate-emails/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/nivesh-raja/My-Leet/tree/main/0511-game-play-analysis-i/) | Easy |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/nivesh-raja/My-Leet/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0595-big-countries](https://github.com/nivesh-raja/My-Leet/tree/main/0595-big-countries/) | Easy |
 | [0610-triangle-judgement](https://github.com/nivesh-raja/My-Leet/tree/main/0610-triangle-judgement/) | Easy |
 | [0620-not-boring-movies](https://github.com/nivesh-raja/My-Leet/tree/main/0620-not-boring-movies/) | Easy |
