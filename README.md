@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/nivesh-raja/My-Leet/tree/main/0035-search-insert-position/) | Easy |
 | [0051-n-queens](https://github.com/nivesh-raja/My-Leet/tree/main/0051-n-queens/) | Hard |
 | [0066-plus-one](https://github.com/nivesh-raja/My-Leet/tree/main/0066-plus-one/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nivesh-raja/My-Leet/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0414-third-maximum-number](https://github.com/nivesh-raja/My-Leet/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/nivesh-raja/My-Leet/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/nivesh-raja/My-Leet/tree/main/0704-binary-search/) | Easy |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nivesh-raja/My-Leet/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/nivesh-raja/My-Leet/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/nivesh-raja/My-Leet/tree/main/0069-sqrtx/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nivesh-raja/My-Leet/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0278-first-bad-version](https://github.com/nivesh-raja/My-Leet/tree/main/0278-first-bad-version/) | Easy |
 | [0704-binary-search](https://github.com/nivesh-raja/My-Leet/tree/main/0704-binary-search/) | Easy |
 ## Tree
@@ -117,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nivesh-raja/My-Leet/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/nivesh-raja/My-Leet/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/nivesh-raja/My-Leet/tree/main/1089-duplicate-zeros/) | Easy |
 ## Database
