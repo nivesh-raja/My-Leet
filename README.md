@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nivesh-raja/My-Leet/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/nivesh-raja/My-Leet/tree/main/0015-3sum/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nivesh-raja/My-Leet/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/nivesh-raja/My-Leet/tree/main/0035-search-insert-position/) | Easy |
 | [0051-n-queens](https://github.com/nivesh-raja/My-Leet/tree/main/0051-n-queens/) | Hard |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/nivesh-raja/My-Leet/tree/main/0015-3sum/) | Medium |
 | [0414-third-maximum-number](https://github.com/nivesh-raja/My-Leet/tree/main/0414-third-maximum-number/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/nivesh-raja/My-Leet/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/nivesh-raja/My-Leet/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/nivesh-raja/My-Leet/tree/main/0015-3sum/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nivesh-raja/My-Leet/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/nivesh-raja/My-Leet/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/nivesh-raja/My-Leet/tree/main/1089-duplicate-zeros/) | Easy |
