@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/nivesh-raja/My-Leet/tree/main/0844-backspace-string-compare/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/nivesh-raja/My-Leet/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/nivesh-raja/My-Leet/tree/main/1929-concatenation-of-array/) | Easy |
 ## Backtracking
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/nivesh-raja/My-Leet/tree/main/0015-3sum/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nivesh-raja/My-Leet/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0844-backspace-string-compare](https://github.com/nivesh-raja/My-Leet/tree/main/0844-backspace-string-compare/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/nivesh-raja/My-Leet/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/nivesh-raja/My-Leet/tree/main/1089-duplicate-zeros/) | Easy |
 ## Database
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0072-edit-distance](https://github.com/nivesh-raja/My-Leet/tree/main/0072-edit-distance/) | Medium |
+| [0844-backspace-string-compare](https://github.com/nivesh-raja/My-Leet/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nivesh-raja/My-Leet/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -151,5 +154,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/nivesh-raja/My-Leet/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nivesh-raja/My-Leet/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 <!---LeetCode Topics End-->
