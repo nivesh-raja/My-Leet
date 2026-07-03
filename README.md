@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0072-edit-distance](https://github.com/nivesh-raja/My-Leet/tree/main/0072-edit-distance/) | Medium |
 | [0844-backspace-string-compare](https://github.com/nivesh-raja/My-Leet/tree/main/0844-backspace-string-compare/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/nivesh-raja/My-Leet/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nivesh-raja/My-Leet/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -173,5 +174,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/nivesh-raja/My-Leet/tree/main/0844-backspace-string-compare/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/nivesh-raja/My-Leet/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nivesh-raja/My-Leet/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/nivesh-raja/My-Leet/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
