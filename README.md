@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/nivesh-raja/My-Leet/tree/main/0015-3sum/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nivesh-raja/My-Leet/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0344-reverse-string](https://github.com/nivesh-raja/My-Leet/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nivesh-raja/My-Leet/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nivesh-raja/My-Leet/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/nivesh-raja/My-Leet/tree/main/0844-backspace-string-compare/) | Easy |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/nivesh-raja/My-Leet/tree/main/0014-longest-common-prefix/) | Easy |
 | [0072-edit-distance](https://github.com/nivesh-raja/My-Leet/tree/main/0072-edit-distance/) | Medium |
 | [0242-valid-anagram](https://github.com/nivesh-raja/My-Leet/tree/main/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/nivesh-raja/My-Leet/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/nivesh-raja/My-Leet/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/nivesh-raja/My-Leet/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nivesh-raja/My-Leet/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
