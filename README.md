@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nivesh-raja/My-Leet/tree/main/0001-two-sum/) | Easy |
+| [0205-isomorphic-strings](https://github.com/nivesh-raja/My-Leet/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/nivesh-raja/My-Leet/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nivesh-raja/My-Leet/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nivesh-raja/My-Leet/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/nivesh-raja/My-Leet/tree/main/0014-longest-common-prefix/) | Easy |
 | [0058-length-of-last-word](https://github.com/nivesh-raja/My-Leet/tree/main/0058-length-of-last-word/) | Easy |
 | [0072-edit-distance](https://github.com/nivesh-raja/My-Leet/tree/main/0072-edit-distance/) | Medium |
+| [0205-isomorphic-strings](https://github.com/nivesh-raja/My-Leet/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/nivesh-raja/My-Leet/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/nivesh-raja/My-Leet/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/nivesh-raja/My-Leet/tree/main/0383-ransom-note/) | Easy |
