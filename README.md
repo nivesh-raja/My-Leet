@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/nivesh-raja/My-Leet/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nivesh-raja/My-Leet/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/nivesh-raja/My-Leet/tree/main/0844-backspace-string-compare/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/nivesh-raja/My-Leet/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/nivesh-raja/My-Leet/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/nivesh-raja/My-Leet/tree/main/1089-duplicate-zeros/) | Easy |
 ## Database
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/nivesh-raja/My-Leet/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/nivesh-raja/My-Leet/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
