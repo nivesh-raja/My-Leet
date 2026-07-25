@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/nivesh-raja/My-Leet/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0844-backspace-string-compare](https://github.com/nivesh-raja/My-Leet/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nivesh-raja/My-Leet/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nivesh-raja/My-Leet/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/nivesh-raja/My-Leet/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/nivesh-raja/My-Leet/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -245,4 +247,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nivesh-raja/My-Leet/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/nivesh-raja/My-Leet/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
