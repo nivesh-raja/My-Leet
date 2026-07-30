@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/nivesh-raja/My-Leet/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/nivesh-raja/My-Leet/tree/main/0704-binary-search/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/nivesh-raja/My-Leet/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0867-transpose-matrix](https://github.com/nivesh-raja/My-Leet/tree/main/0867-transpose-matrix/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/nivesh-raja/My-Leet/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/nivesh-raja/My-Leet/tree/main/1089-duplicate-zeros/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nivesh-raja/My-Leet/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/nivesh-raja/My-Leet/tree/main/0844-backspace-string-compare/) | Easy |
+| [0867-transpose-matrix](https://github.com/nivesh-raja/My-Leet/tree/main/0867-transpose-matrix/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/nivesh-raja/My-Leet/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/nivesh-raja/My-Leet/tree/main/1929-concatenation-of-array/) | Easy |
 ## Backtracking
@@ -60,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0867-transpose-matrix](https://github.com/nivesh-raja/My-Leet/tree/main/0867-transpose-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/nivesh-raja/My-Leet/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
