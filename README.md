@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/nivesh-raja/My-Leet/tree/main/0704-binary-search/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/nivesh-raja/My-Leet/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0867-transpose-matrix](https://github.com/nivesh-raja/My-Leet/tree/main/0867-transpose-matrix/) | Easy |
+| [0877-stone-game](https://github.com/nivesh-raja/My-Leet/tree/main/0877-stone-game/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/nivesh-raja/My-Leet/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/nivesh-raja/My-Leet/tree/main/1089-duplicate-zeros/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nivesh-raja/My-Leet/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0066-plus-one](https://github.com/nivesh-raja/My-Leet/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/nivesh-raja/My-Leet/tree/main/0069-sqrtx/) | Easy |
+| [0877-stone-game](https://github.com/nivesh-raja/My-Leet/tree/main/0877-stone-game/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nivesh-raja/My-Leet/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/nivesh-raja/My-Leet/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Counting
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0072-edit-distance](https://github.com/nivesh-raja/My-Leet/tree/main/0072-edit-distance/) | Medium |
 | [0198-house-robber](https://github.com/nivesh-raja/My-Leet/tree/main/0198-house-robber/) | Medium |
+| [0877-stone-game](https://github.com/nivesh-raja/My-Leet/tree/main/0877-stone-game/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -257,4 +260,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nivesh-raja/My-Leet/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/nivesh-raja/My-Leet/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
