@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/nivesh-raja/My-Leet/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/nivesh-raja/My-Leet/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/nivesh-raja/My-Leet/tree/main/0066-plus-one/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/nivesh-raja/My-Leet/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nivesh-raja/My-Leet/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/nivesh-raja/My-Leet/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/nivesh-raja/My-Leet/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/nivesh-raja/My-Leet/tree/main/0053-maximum-subarray/) | Medium |
 | [0072-edit-distance](https://github.com/nivesh-raja/My-Leet/tree/main/0072-edit-distance/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/nivesh-raja/My-Leet/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/nivesh-raja/My-Leet/tree/main/0198-house-robber/) | Medium |
 | [0877-stone-game](https://github.com/nivesh-raja/My-Leet/tree/main/0877-stone-game/) | Medium |
 ## Stack
