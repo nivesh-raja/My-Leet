@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nivesh-raja/My-Leet/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/nivesh-raja/My-Leet/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/nivesh-raja/My-Leet/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0217-contains-duplicate](https://github.com/nivesh-raja/My-Leet/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nivesh-raja/My-Leet/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nivesh-raja/My-Leet/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/nivesh-raja/My-Leet/tree/main/0414-third-maximum-number/) | Easy |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/nivesh-raja/My-Leet/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nivesh-raja/My-Leet/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0205-isomorphic-strings](https://github.com/nivesh-raja/My-Leet/tree/main/0205-isomorphic-strings/) | Easy |
+| [0217-contains-duplicate](https://github.com/nivesh-raja/My-Leet/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/nivesh-raja/My-Leet/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nivesh-raja/My-Leet/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nivesh-raja/My-Leet/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/nivesh-raja/My-Leet/tree/main/0015-3sum/) | Medium |
+| [0217-contains-duplicate](https://github.com/nivesh-raja/My-Leet/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/nivesh-raja/My-Leet/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nivesh-raja/My-Leet/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nivesh-raja/My-Leet/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
