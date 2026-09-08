@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/nivesh-raja/My-Leet/tree/main/0877-stone-game/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nivesh-raja/My-Leet/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/nivesh-raja/My-Leet/tree/main/1512-number-of-good-pairs/) | Easy |
+| [3870-count-commas-in-range](https://github.com/nivesh-raja/My-Leet/tree/main/3870-count-commas-in-range/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
